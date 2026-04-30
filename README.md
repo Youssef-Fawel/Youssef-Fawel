@@ -33,7 +33,7 @@ Hello! My name is Youssef. I am a final-year software engineering student at **E
 ### 🚀 About Me
 
 * 🔭 I’m currently working as a **Software Development Intern at Rashford-IT**.
-* 💻 Some of my recent projects include **CustomerStream RT** (real-time data processing with Spark & Kafka) and full-stack development on **Twini-App** and **justify-api**.
+* 💻 Some of my recent projects include **CustomerStream RT** (real-time data processing with Spark & Kafka) and full-stack development on **Twini** and **justify-api**.
 * 🌱 I’m actively expanding my skills in **Data Science, AI**, and modern web frameworks like **Next.js** and **NestJS**.
 * 💬 Ask me about: **React, TypeScript, Apache Kafka, Spark**, or Python-based data processing!
 * 🌍 Languages: Arabic (Native), English (C1), French (B2).
