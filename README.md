@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c96cc736-6fbd-4966-b237-f25be19c4f72" width="180" alt="Youssef Fawel" style="border-radius: 50%;" />
   
   # Hi there 👋, Welcome!
-  **I'm Youssef Fawel**
+  **I'm Youssef FAWEL**
   
   *Software Engineering Student @ ESIEA Paris | Full-Stack Developer | Data & AI Enthusiast*
 </div>
