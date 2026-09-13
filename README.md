@@ -41,7 +41,7 @@ I specialize in full-stack software development, with a strong interest in build
 * 🌍 I completed an academic exchange semester at **ESIEA Paris**, strengthening my international academic and professional experience.
 * 💼 I completed my six-month final-year internship at **RASHFORD-IT** in Île-de-France as a **Full-Stack Software Engineering & AI Intern**.
 * 🤖 My work focuses on modern web architectures, API development, intelligent matching, data analysis, and the integration of AI services into real-world applications.
-* 💻 My recent projects include **Talentry**, **CustomerStream RT**, **Twini**, and **justify-api**.
+* 💻 My recent projects include **Talentry**, **CustomerStream RT**, **Twini**, **Saba**, **AhkiLi**, and **justify-api**.
 * 🌱 I’m continuing to expand my expertise in **Artificial Intelligence, Machine Learning, Data Science, Cloud Computing**, and scalable software architectures.
 * 💬 Ask me about **React, Next.js, TypeScript, NestJS, Python, Apache Kafka, Spark**, or AI integration.
 * 🌐 Languages: **Arabic (Native), English (C1), French (B2)**.
